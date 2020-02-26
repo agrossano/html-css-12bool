@@ -8,7 +8,7 @@
 
 
 p {
-  line-height: 190px;
+  line-height: 168px;
 }
 
 /* DEBUG */
@@ -16,10 +16,14 @@ p {
 [class*="col-"] {
   background: pink;
   border: 1px solid black;
-  height: 190px;
+  height: 180px;
   text-align: center;
 }
 
 .nested {
   background: red;
+}
+
+.padding {
+  padding: 5px;
 }
