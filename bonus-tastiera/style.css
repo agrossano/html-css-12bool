@@ -9,8 +9,8 @@ body {
 }
 
 .wrapper {
-    top: 160px;
-    position: relative;
+  top: 160px;
+  position: relative;
 }
 
 [class*="col-"] {
@@ -58,13 +58,9 @@ p {
 
 }
 
-.col-8 {
-  border-radius: 0;
-}
 
 .col-1 img {
   margin-left: 25px;
   margin-top: 5px;
   width: 50%;
-  height: auto;
 }
