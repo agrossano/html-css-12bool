@@ -8,6 +8,10 @@ body {
   background: #424242;
 }
 
+.wrapper {
+    top: 160px;
+    position: relative;
+}
 
 [class*="col-"] {
   height: 97px;
@@ -22,6 +26,9 @@ p {
   padding: 6px 0 0 12px;
 }
 
+.bool p {
+  color:
+}
 
 .col-1, .col-6, .col-2 {
   border-radius: 2px;
